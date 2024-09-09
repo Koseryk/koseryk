@@ -1,0 +1,32 @@
+table {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    border-collapse: collapse;
+    width: 100%; 
+}
+
+
+table, th, td {
+    border: 2px solid black;
+}
+
+
+th {
+    background-color: darkgreen;
+    color: white;
+}
+
+.align-left-top {
+    text-align: left;
+    vertical-align: top;
+}
+
+.align-center-middle {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.align-right-bottom {
+    text-align: right;
+    vertical-align: bottom;
+}
